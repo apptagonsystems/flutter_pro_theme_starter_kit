@@ -1,6 +1,6 @@
-# donvo
+# Flutter pro theme starter kit
 
-Donate & Volunteer
+Flutter pro theme
 
 ## Getting Started
 
